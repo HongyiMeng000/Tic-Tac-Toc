@@ -1,4 +1,7 @@
 # Tic-Tac-Toc
+> [!NOTE]
+> 需要下载压缩包解压后即可，解压后目录如下：
+![image](https://github.com/HongyiMeng000/Tic-Tac-Toc/assets/149403237/5ddcce16-e936-4301-a067-b4b8e5a3fe21)
 
 ## 引擎版本  
 UE 5.1  
